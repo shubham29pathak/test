@@ -1,0 +1,5 @@
+{{#user}
+Name: Shubham Pathak
+Skills: HTML, CSS, JS, Node.js
+Email: sp6285543@gmail.com
+{{/user}}
